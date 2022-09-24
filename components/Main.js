@@ -33,7 +33,7 @@ export default function Main() {
         <Image src={logo} layout="fixed" height={70} width={120} />
       </div>
       <div className="lg:mt-24 md:mt-18 mt-12 md:p-5 p-3 lg:text-6xl md:text-3xl uppercase tracking-widest bg-slate-700 bg-opacity-30 rounded-3xl">
-        <h1 className="text-red-700 font-thin">We're</h1>
+        <h1 className="text-red-700 font-thin">We are</h1>
         <h1 className="">coming</h1>
         <h1 className="">soon</h1>
       </div>
