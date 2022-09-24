@@ -2,7 +2,6 @@ import Image from "next/image";
 import logo from "../pages/images/JuhoSwap.png";
 import arrow from "../pages/images/icon-arrow.svg";
 import { useState, useEffect } from "react";
-import axios from "axios";
 
 export default function Main() {
   const [emails, setEmails] = useState([]);
