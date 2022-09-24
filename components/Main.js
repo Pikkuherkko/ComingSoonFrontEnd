@@ -39,7 +39,7 @@ export default function Main() {
       </div>
 
       <p className="text-white md:text-xl lg:text-2xl mt-8 bg-slate-600 bg-opacity-50 rounded-3xl p-3">
-        What's up cryptoheads! A new DeFi project is brewing. Add your email
+        Whats up cryptoheads! A new DeFi project is brewing. Add your email
         below to stay up-to-date with announcements and launch deals. Sign up
         for whitelist to gain access to NFT minting (Metamask required).
       </p>
