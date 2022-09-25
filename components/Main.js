@@ -61,7 +61,7 @@ export default function Main() {
           className="p-4 px-8 bg-red-700 hover:bg-red-300 rounded-full flex items-center"
           type="submit"
         >
-          <Image src={arrow} />
+          <Image src={arrow} layout="fixed" />
         </button>
       </form>
       <p className="ml-4 p-3 text-red-700 emailmsg"></p>
